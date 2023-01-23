@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flag-secure-android",
+  "name": "react-native-flag-secure",
   "version": "1.0.3",
   "description": "A simple module used to add FLAG_SECURE to the main activity. FLAG_SECURE prevents the users and the app to take screenshots of the app content.",
   "main": "index.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/staltz/react-native-flag-secure-android.git"
+    "url": "git+https://github.com/idMuvunyi/react-native-flag-secure.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/staltz/react-native-flag-secure-android/issues"
+    "url": "https://github.com/idMuvunyi/react-native-flag-secure/issues"
   },
-  "homepage": "https://github.com/staltz/react-native-flag-secure-android#readme"
+  "homepage": "https://github.com/idMuvunyi/react-native-flag-secure#readme"
 }
