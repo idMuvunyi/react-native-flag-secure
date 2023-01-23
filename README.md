@@ -19,7 +19,7 @@ A simple module used to add `FLAG_SECURE` to the main activity. `FLAG_SECURE` pr
 4. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
 
    ```groovy
-   compile project(':react-native-flag-secure-android')
+   implementation project(':react-native-flag-secure-android')
    ```
 
 ## Usage
